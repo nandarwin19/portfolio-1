@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div id="aboutme">
       <motion.div variants={textVariant()} className="text-center">
-        <h2 className={`${styles.sectionHeadText}`}>ABOUT ME</h2>
+        <h2 className={`${styles.sectionHeadText}`}>|ABOUT ME|</h2>
       </motion.div>
       <div className="about quirky-robot tracking-widest text-[2rem] text-center max-w-3xl w-full mx-auto">
         Hey, I'm{" "}

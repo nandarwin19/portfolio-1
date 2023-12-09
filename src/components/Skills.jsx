@@ -9,7 +9,7 @@ const Skills = () => {
   return (
     <div id="skills">
       <motion.div variants={textVariant()}>
-        <h2 className={`${styles.sectionHeadText} text-center`}>MY SKILLS</h2>
+        <h2 className={`${styles.sectionHeadText} text-center`}>|MY SKILLS|</h2>
       </motion.div>
       <motion.div
         variants={textVariant()}
